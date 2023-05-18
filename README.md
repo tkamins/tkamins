@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Warsaw, Poland
 * 🚀  I'm currently working on [TweetWebFeedApp](http://twitter.com/ZbiorKomWawa)
-* 🧠  I'm learning Angular 16
+* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
